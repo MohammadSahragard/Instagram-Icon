@@ -1,5 +1,5 @@
 <img src="https://github.com/MohammadSahragard/Instagram-Icon/blob/main/Thumbnile.png?raw=true" alt="Instagram icon" />
-###### Instagram Icon | project cover
+<h6 align="center">Instagram Icon | project cover</h6>
 
 # Instagram Icon
 
